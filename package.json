@@ -9,10 +9,6 @@
   "dependencies": {
     "jquery": "^3.1.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VermaAbhishek/Angular-Components.git"
-  },
   "keywords": [
   ],
   "author": "Abhishek Verma",

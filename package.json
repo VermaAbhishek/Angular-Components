@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/VermaAbhishek/Angular-Components.git"
+    "url": "git+https://github.com/VermaAbhishek/Angular-Components.git"
   },
   "keywords": [
   ],
   "author": "Abhishek Verma",
-  "license": "",
+  "license": "MIT",
   "homepage": "https://github.com/VermaAbhishek/Angular-Components#readme"
 }
